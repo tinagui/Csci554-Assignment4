@@ -1,6 +1,6 @@
 Csci554-Assignment4
 ===================
-
+```
 User Administration Page Suggestions
 
 6.The administration page for a user's bands:
@@ -18,7 +18,8 @@ Possible fields for the form:
 Location
 Slides and PHP files: Slide 13
 Coding suggestions:
-Contributors: GUI, TIAN
+Contributors: Tina Gui
+```
 ==================================================================================
 Suggestions:
 The administration page for a uers's band has been designed already.
