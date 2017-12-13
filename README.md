@@ -1,4 +1,5 @@
-Csci554-Assignment4
+##Csci554-Assignment4
+
 ===================
 ```
 User Administration Page Suggestions
@@ -20,7 +21,7 @@ Slides and PHP files: Slide 13
 Coding suggestions:
 Contributors: Tina Gui
 ```
-==================================================================================
+===================
 Suggestions:
 The administration page for a uers's band has been designed already.
 It has six sections:
