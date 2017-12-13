@@ -1,4 +1,4 @@
-##Csci554-Assignment4
+## CSCI 554 - Assignment 4
 
 ===================
 ```
