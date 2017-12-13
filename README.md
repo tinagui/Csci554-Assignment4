@@ -21,7 +21,7 @@ Slides and PHP files: Slide 13
 Coding suggestions:
 Contributors: Tina Gui
 ```
-===================
+=================== <br>
 Suggestions:
 The administration page for a uers's band has been designed already.
 It has six sections:
